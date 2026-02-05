@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+pydantic
+pysqlite3  # usually already in Python, but safe to list
